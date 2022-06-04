@@ -1,0 +1,13 @@
+logo {
+  align-self: left;
+}
+
+header{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+header #top-right {
+ margin-top: 40px; 
+}
