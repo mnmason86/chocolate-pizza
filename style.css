@@ -26,12 +26,11 @@ header #top-right {
   align-items: center;
 }
 
-.hr {
+.hr1 {
   background-image: url("img/hr-img.png");
-  height: 10px;
+  height: 5px;
 }
 
 .list {
   background-image: url("img/list-bg.png");
 }
-
