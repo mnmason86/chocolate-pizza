@@ -1,0 +1,36 @@
+header{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+header #top-right {
+ margin-top: 40px; 
+}
+
+#top-right #rss {
+  padding-left: 10px;
+}
+
+.print {
+  display: flex;
+  justify-content: space-between;
+}
+
+#share {
+  display: flex;
+  justify-content: space-between;
+}
+
+#ghost {
+  align-items: center;
+}
+
+.hr1 {
+  background-image: url("img/hr-img.png");
+  height: 5px;
+}
+
+.list {
+  background-image: url("img/list-bg.png");
+}
